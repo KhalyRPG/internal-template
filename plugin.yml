@@ -4,4 +4,4 @@ version: 1.0
 author: iAtog
 prefix: Api
 description: internal api from khaly core
-loadbefore: [KhalyCore]
+loadbefore: [core]
