@@ -1,0 +1,7 @@
+main: me.khaly.api.Api
+name: internal
+version: 1.0
+author: iAtog
+prefix: Api
+description: internal api from khaly core
+loadbefore: [KhalyCore]
